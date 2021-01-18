@@ -1,3 +1,3 @@
-# Desafio-API-with-data-base
-Desafio Growdev api with data base
-Para iniciar o programa abra o terminal e rode o comando: yarn
+# API-with-data-base
+
+Ao rodar essa aplicação deve-se utilizar o comando Yarn.
